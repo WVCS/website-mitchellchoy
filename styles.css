@@ -1,1 +1,5 @@
-
+body{background-color: AliceBlue}
+#title{Text-align: Center; font-family: "Monaco", "Courier New", monospace;
+outline-style: double;}
+#codegame{text-align: center}
+#return{text-align: right;}
