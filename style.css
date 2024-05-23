@@ -1,3 +1,19 @@
-body {
+body {background-image: url("https://static.vecteezy.com/system/resources/previews/021/890/638/original/sea-wave-water-wave-vector.jpg")}
+#head {font-family: "Times New Roman", Times, serif;}
+#head {text-align: center;}
+#head{font-size: 25px;}
+#wvhs{display: block;
+  margin-left: 310px;
+  margin-right: auto;
+  width: 50%;}
+#APCSP{display: block;
+  margin-left: 290px;
+  margin-right: auto;
+  width: 50%;}
+#nextpage{padding: 0px 700px;
+display: block;
+  margin-left: 33px;
+  margin-right: auto;
+  width: 50%;}
 
 }
