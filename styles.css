@@ -1,5 +1,21 @@
-body{background-color: AliceBlue}
-#title{Text-align: Center; font-family: "Monaco", "Courier New", monospace;
-outline-style: double;}
-#codegame{text-align: center}
-#return{text-align: right;}
+body {
+  background-color: AliceBlue;
+}
+#title {
+  text-align: Center;
+  font-family: "Monaco", "Courier New", monospace;
+  outline-style: double;
+}
+
+#return {
+  text-align: right;
+}
+#navbar {
+  display: block;
+  text-align: center;
+  border: 5px solid #555;
+  height: 60px;
+  width: 150px;
+  background-color: #dddddd;
+}
+
